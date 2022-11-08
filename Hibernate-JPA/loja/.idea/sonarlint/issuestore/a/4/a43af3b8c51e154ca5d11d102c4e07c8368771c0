@@ -1,0 +1,10 @@
+
+l
+java:S1192"JDefine a constant instead of duplicating this literal "CELULARES" 3 times.(«¦åÜÿÿÿÿÿ8ËâÀ·¿0
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Šã»…
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Üß©
+M	java:S106"9Replace this use of System.out or System.err by a logger.(‰Ûˆ
+T
+java:S1854&">Remove this useless assignment to local variable "produtoDao".(²ì˜Ñ
+E
+java:S1481&"/Remove this unused "produtoDao" local variable.(²ì˜Ñ
